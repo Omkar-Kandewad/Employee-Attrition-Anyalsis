@@ -75,7 +75,13 @@ o	Department-wise and role-wise attrition
 3.	Refresh the data if required
 4.	Use slicers and visuals to explore attrition insights
 
-Dashboard :-
+📊 Dashboard :-
+
+<img width="1340" height="750" alt="Screenshot 2025-12-26 145636" src="https://github.com/user-attachments/assets/b2447958-4257-45dd-8b2f-ef17c6bb9bfa" />
+
+<img width="1334" height="746" alt="Screenshot 2025-12-26 145702" src="https://github.com/user-attachments/assets/6fba8b55-5b53-4b33-9fbc-18f288844d8a" />
+
+
 
 
 
